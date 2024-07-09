@@ -16,3 +16,4 @@ vendor/
 bin/
 .fossa.yml
 *~
+__debug_bin*
